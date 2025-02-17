@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import matplotlib.font_manager as fm
 import arabic_reshaper
-#from bidi.algorithm import get_display
+from bidi.algorithm import get_display
 import pandas as pd
 
 # تحميل البيانات (استبدلها ببياناتك الفعلية)
